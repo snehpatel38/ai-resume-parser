@@ -20,14 +20,14 @@ This project is an intelligent resume parsing and candidate analysis system that
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/resume-parser-ai.git
+git clone https://github.com/snehpatel38/resume-parser-ai.git
 cd resume-parser-ai
 ```
 
 2. Create and activate a virtual environment:
 ```bash
 python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
+venv\Scripts\activate  # On Mac or Linux: source venv/bin/activate
 ```
 
 3. Install dependencies:
@@ -78,8 +78,8 @@ uvicorn main:app --reload
    - Interview preparation
 
 4. **Web Interface**
-   - Modern React-based UI
    - Real-time chat
+   - Simple Web Using HTML, CSS , JS
    - Candidate management
 
 ## Usage Examples
@@ -130,11 +130,11 @@ Example queries:
    - Calendar integration for interviews
    - Email notification system
 
-4. **UI/UX**
-   - Dark mode
-   - Mobile app
-   - Advanced filtering
-   - Export functionality
+## Demo
+
+Check out the demo video to see the project in action:
+
+[![Demo Video](docs/demo.mp4)](docs/demo.mp4)
 
 ## Contributing
 1. Fork the repository
@@ -143,14 +143,6 @@ Example queries:
 4. Push to the branch
 5. Create a Pull Request
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 - Google Gemini AI
 - FastAPI
-- React
-- All contributors
-
-## Contact
-For questions and support, please open an issue in the GitHub repository.
