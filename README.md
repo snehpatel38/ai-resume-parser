@@ -134,10 +134,9 @@ Example queries:
 
 Watch the demo video directly below:
 
-<video controls>
-  <source src="docs/demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/8f78c2b6-7a61-4d5b-96f5-c4a076dde4f8
+
 
 ## Contributing
 1. Fork the repository
