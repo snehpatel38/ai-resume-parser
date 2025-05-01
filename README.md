@@ -5,7 +5,6 @@ This project is an intelligent resume parsing and candidate analysis system that
 
 ### Key Features
 - **Intelligent Resume Parsing**: Automatically extracts structured information from various resume formats (PDF, DOCX, TXT)
-- **Candidate Analysis**: Ranks and compares candidates based on skills, experience, and requirements
 - **HR Assistant**: AI-powered chatbot for candidate evaluation and interview preparation
 - **Modern Web Interface**: Clean and intuitive user interface for managing candidates
 
@@ -13,7 +12,6 @@ This project is an intelligent resume parsing and candidate analysis system that
 
 ### Prerequisites
 - Python 3.8 or higher
-- Node.js and npm (for frontend development)
 - Google Cloud account with Gemini API access
 
 ### Installation
