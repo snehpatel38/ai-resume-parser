@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Parser and Candidate Analysis</title>
+    <link rel="stylesheet" href="/static/styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1>Resume Parser and Candidate Analysis</h1>
+        </header>
+
+        <main>
+            <section class="upload-section">
+                <h2>Upload Resume</h2>
+                <form id="uploadForm">
+                    <input type="file" id="resumeFile" accept=".pdf,.docx,.txt" required>
+                    <button type="submit">Upload</button>
+                </form>
+                <div id="uploadStatus"></div>
+            </section>
+
+            <section class="chat-section">
+                <h2>HR Assistant</h2>
+                <div id="chatMessages"></div>
+                <form id="chatForm">
+                    <input type="text" id="messageInput" placeholder="Ask about candidates..." required>
+                    <button type="submit">Send</button>
+                </form>
+            </section>
+
+            <section class="candidates-section">
+                <h2>Candidates</h2>
+                <div id="candidatesList"></div>
+            </section>
+        </main>
+    </div>
+    <script src="/static/script.js"></script>
+</body>
+</html> 
