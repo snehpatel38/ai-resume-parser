@@ -132,9 +132,12 @@ Example queries:
 
 ## Demo
 
-Check out the demo video to see the project in action:
+Watch the demo video directly below:
 
-[Demo Video](docs/demo.mp4)
+<video controls>
+  <source src="docs/demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 ## Contributing
 1. Fork the repository
