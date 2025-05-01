@@ -134,7 +134,7 @@ Example queries:
 
 Check out the demo video to see the project in action:
 
-[![Demo Video](docs/demo.mp4)](docs/demo.mp4)
+[![Demo Video](docs/demo.mp4)]
 
 ## Contributing
 1. Fork the repository
